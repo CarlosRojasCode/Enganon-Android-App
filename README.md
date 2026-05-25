@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="logo.png.png" width="200">
+  <img src="logo_engañon.png" width="200">
 </p>
 
 # 📱 Engañón - Impostor con Arte Andaluz (TFG)
