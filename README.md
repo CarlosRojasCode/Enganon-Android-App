@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="logo.png" width="200">
-</p>
+
 # 📱 Engañón - Impostor con Arte Andaluz (TFG)
 
 ### 🎭 ¿De qué trata el proyecto?
