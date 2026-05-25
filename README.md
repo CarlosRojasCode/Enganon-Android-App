@@ -24,4 +24,13 @@ Es el resultado de mi **Trabajo Fin de Grado (TFG)**, donde he volcado mis conoc
 Lo más interesante de este proyecto fue gestionar la **dinámica de grupos** dentro de la app y asegurar que el diseño visual mantuviera la coherencia con el tono humorístico del léxico utilizado sin perder la profesionalidad de una app nativa.
 
 ---
+## 📥 Descarga e Instalación
+
+Para probar la aplicación, puedes descargar el archivo ejecutable (**APK**) desde la sección de lanzamientos oficiales:
+
+🚀 [**DESCARGAR ENGAÑÓN v1.0.0**](https://github.com/CarlosMPE/Enganon-Android-App/releases/latest)
+
+> **Nota:** Al ser una instalación manual, recuerda activar el permiso de "Instalar aplicaciones de fuentes desconocidas" en tu dispositivo Android.
+---
+
 *Desarrollado con pasión por Carlos Rojas Sánchez*
